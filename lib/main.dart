@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:logging/logging.dart';
-import 'package:testquest/soc/data/data_sources/api/post_api_service.dart';
+import 'package:testquest/soc/data/rest/api/post_api_service.dart';
 import 'package:testquest/soc/presentation/pages/posts_page.dart';
 
 void main() {
